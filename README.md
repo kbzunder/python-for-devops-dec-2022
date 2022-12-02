@@ -7,6 +7,8 @@ From Zero
 Create development environments that is coud-based: 
 
 ### Colab notebook 
+
+A bried instruction how to use  [colab](https://colab.research.google.com/drive/1t2Rwh87C5TTaviYdm9OClM-6mgmMB2a2#scrollTo=nLhHCu8IZpYa) 
 ### Github Codespaces  
 ### AWS Cloudshell
 ### AWS Cloud9
