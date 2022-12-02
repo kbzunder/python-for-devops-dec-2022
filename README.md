@@ -21,6 +21,10 @@ Build out Python project scaffold:
 * command-line-tool
 * Microservice
 
+
+1. Create a virtual evironment `virtualenv ~/.venv`
+2. edit my `.bashrc` # it is run eve
+
 ### AWS Cloudshell
 ### AWS Cloud9
 
