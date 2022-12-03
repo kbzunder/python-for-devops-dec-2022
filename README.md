@@ -1,6 +1,6 @@
 # python-for-devops-dec-2022
 From Zero
-
+[![Test Multiple Python Versions](https://github.com/kbzunder/python-for-devops-dec-2022/actions/workflows/main.yml/badge.svg)](https://github.com/kbzunder/python-for-devops-dec-2022/actions/workflows/main.yml)
 
 ## Create a project scaffold 
 
