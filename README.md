@@ -13,17 +13,18 @@ A bried instruction how to use  [colab](https://colab.research.google.com/drive/
 
 Build out Python project scaffold:
 
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefile](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/Makefile)
+* [requirements.txt](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/requirements.txt)
+* [test_library.py](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/test_devopslib.py)
+* [python_library](https://github.com/kbzunder/python-for-devops-dec-2022/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
 
 
 1. Create a virtual evironment `virtualenv ~/.venv`
-2. edit my `.bashrc` # it is run eve
+2. edited my `.bashrc` `source ~/.venv/bin/activate`
+3. clone project do `make all`
 
 ### AWS Cloudshell
 ### AWS Cloud9
