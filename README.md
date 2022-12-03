@@ -14,7 +14,7 @@ A bried instruction how to use  [colab](https://colab.research.google.com/drive/
 Build out Python project scaffold:
 
 * [Makefile](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/Makefile)
-* requirements.txt
+* [requirements.txt](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/requirements.txt)
 * test_library.py
 * python_library
 * Dockerfile
