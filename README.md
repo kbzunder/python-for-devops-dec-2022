@@ -23,7 +23,8 @@ Build out Python project scaffold:
 
 
 1. Create a virtual evironment `virtualenv ~/.venv`
-2. edit my `.bashrc` # it is run eve
+2. edited my `.bashrc` `source ~/.venv/bin/activate`
+3. clone project do `make all`
 
 ### AWS Cloudshell
 ### AWS Cloud9
