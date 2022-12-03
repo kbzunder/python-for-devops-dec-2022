@@ -15,7 +15,7 @@ Build out Python project scaffold:
 
 * [Makefile](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/Makefile)
 * [requirements.txt](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/requirements.txt)
-* test_library.py
+* [test_library.py](https://github.com/kbzunder/python-for-devops-dec-2022/blob/main/test_devopslib.py)
 * python_library
 * Dockerfile
 * command-line-tool
