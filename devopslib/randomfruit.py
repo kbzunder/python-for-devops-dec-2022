@@ -9,10 +9,11 @@ def fruit():
 def meal(beverage):
     my_fruit = fruit()
     print(f"your fruit is {my_fruit} and your beverage is {beverage}")
-    if my_fruit == 'cherry':
+    if my_fruit == "cherry":
         complete_meal = f"your meal is a {my_fruit} and {beverage}"
         return complete_meal
-    return  f"your meal is a steak and {beverage}"
+    return f"your meal is a steak and {beverage}"
+
 
 # var = 1
 # var = var
